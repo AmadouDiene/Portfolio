@@ -8,4 +8,4 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-|[Decoding Customer Feedback: Predictive Analytics for Java June's Review Enhancement](https://github.com/AmadouDiene/Portfolio/blob/main/Decoding%20Customer%20Feedback%20Predictive%20Analytics%20for%20Java%20June's%20Review%20Enhancement/notebook.ipynb)| Exploratory Analysis / Model Development | "Analyzing Java June's customer reviews to identify trends and predict factors influencing store ratings, informing strategies to enhance the company's digital footprint." |
+|[Decoding Customer Feedback: Predictive Analytics for Java June's Review Enhancement](https://github.com/AmadouDiene/Portfolio/blob/main/Decoding%20Customer%20Feedback%20Predictive%20Analytics%20for%20Java%20June's%20Review%20Enhancement/notebook.ipynb)| Exploratory Analysis / Model Development | Analyzing Java June's customer reviews to identify trends and predict factors influencing store ratings, informing strategies to enhance the company's digital footprint. |
